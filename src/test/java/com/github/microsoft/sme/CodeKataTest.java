@@ -1,10 +1,12 @@
-package com.github.knifeofdreams.codekata;
+package com.github.microsoft.sme;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
 
 import java.util.function.IntSupplier;
+
+import com.github.microsoft.sme.CodeKata;
 import org.junit.jupiter.api.Test;
 
 class CodeKataTest {

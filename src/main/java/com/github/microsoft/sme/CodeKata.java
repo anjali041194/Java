@@ -1,4 +1,4 @@
-package com.github.knifeofdreams.codekata;
+package com.github.microsoft.sme;
 
 import java.util.function.IntSupplier;
 
